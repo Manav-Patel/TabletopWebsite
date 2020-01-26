@@ -180,7 +180,7 @@ footer {
 .loginbox {
     display: block;
     text-align: center;
-    height: 190px;
+    height: 220px;
     width: 500px;
     color: white;
     border-radius: 10px;
@@ -198,3 +198,32 @@ footer {
     height: 20px;
     width: 150px;
 }
+
+/*================================== REGISTRATION CODE STARTS HERE ==================================*/
+
+.registrationbox {
+   
+    display: block;
+    text-align: center;
+    height: 310px;
+    width: 500px;
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+    margin: auto;
+    opacity: .9;
+
+}
+
+
+.registrationbox h1 {
+    padding-top: 12px;
+}
+
+
+.registrationbox input {
+    height: 20px;
+    width: 150px;
+}
+
+/*================================== XXXX CODE STARTS HERE ==================================*/
