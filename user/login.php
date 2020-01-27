@@ -64,24 +64,15 @@
                 <script type="text/javascript">
                     alert("The username and password does not match");
                 </script>
-
                 <?php
             } else {
                 ?>
-
                 <script type="text/javascript">
                     window.location="home.php"
                 </script>
-
                 <?php
-
             }
-
-
         }
-
     ?>
-
-
     </body>
 </html>
